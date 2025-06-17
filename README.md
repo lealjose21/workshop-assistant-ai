@@ -13,11 +13,4 @@ Workshop Assistant AI is a professional AI-powered assistant designed to provide
 - 📚 Professional tone and structured responses
 
 ## 📁 Project Structure
-workshop-assistant-ai/
-app.py # Flask backend
-requirements.txt # Python dependencies
-README.md # Project overview 
-deployment_guide.txt # Setup and deployment instructions 
-templates/index.html # Chat UI static/
-css/style.css # Basic styling js/
-chat.js # Chat interaction logic
+workshop-assistant-ai/ ├── app.py # Flask backend ├── requirements.txt # Python dependencies ├── README.md # Project overview ├── deployment_guide.txt # Setup and deployment instructions ├── templates/ │ └── index.html # Chat UI └── static/ ├── css/ │ └── style.css # Basic styling └── js/ └── chat.js # Chat interaction logic
